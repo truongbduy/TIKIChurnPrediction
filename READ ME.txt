@@ -1,0 +1,1 @@
+This project use website log data and system data to predict which users is the next buyers
